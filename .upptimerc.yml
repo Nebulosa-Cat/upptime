@@ -24,7 +24,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status Monitor
   introTitle: "一個基於開源 Status Monitor Project 「Upptime」 部署於 Github 上的網站狀態監視頁面"
-  introMessage: [My Bolg](https://nebulosa-cat.com)
+  #introMessage: [My Bolg](https://nebulosa-cat.com)
   navbar:
     - title: Status Monitor
       href: /
