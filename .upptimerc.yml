@@ -32,5 +32,64 @@ status-website:
       href: https://t.me/+LVMVjJCctvg3Yzdl
   theme: night
 
+#翻譯
+i18n:
+  activeIncidents: 活動詳情
+  allSystemsOperational: 全線運作正常 All systems Online
+  incidentReport: "第 #$NUMBER 號事件報告 →"
+  activeIncidentSummary: 在 $DATE 打開，有 $POSTS 個帖子
+  incidentTitle: 事件編號 $NUMBER 詳情
+  incidentDetails: 事件詳情
+  incidentFixed: Fixed
+  incidentOngoing: Ongoing
+  incidentOpenedAt: Opened at
+  incidentClosedAt: Closed at
+  incidentSubscribe: 訂閱更新
+  incidentViewOnGitHub: 在 GitHub 上查看
+  incidentCommentSummary: 由 $AUTHOR 於 $DATE 發表
+  incidentBack: ← 返回所有事件
+  pastIncidents: 過去的事件
+  pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
+  liveStatus: 當前狀態
+  overallUptime: "總體正常運行時間: $UPTIME"
+  overallUptimeTitle: 總體正常運行時間
+  averageResponseTime: "平均響應時間: $TIMEms"
+  averageResponseTimeTitle: 平均響應
+  sevelDayResponseTime: 響應時間(7日)
+  responseTimeMs: 響應時間 (ms)
+  up: 上一個
+  down: 下一個
+  degraded: Degraded
+  ms: ms
+  loading: 載入中
+  navGitHub: GitHub
+  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: 超出速率限制
+  rateLimitExceededIntro: 您已超過一小時內可以執行的請求數，因此您必須等待才能再次訪問此網站。或者，您可以添加 GitHub Personal Access Token 以繼續使用該網站。
+  rateLimitExceededWhatDoesErrorMean: What does this error mean?
+  rateLimitExceededErrorMeaning: 本網站使用 GitHub API 訪問有關我們網站狀態的實時數據。默認情況下，GitHub 允許每個 IP 地址每小時 60 個請求，您已用光這些請求。
+  rateLimitExceededErrorHowCanFix: 如何解決?
+  rateLimitExceededErrorFix: 再等一個小時，您的 IP 地址限制將恢復。或者，您可以添加您的 GitHub Personal Access Token，這會為您每小時提供額外 5,000 個請求。
+  rateLimitExceededGeneratePAT: 了解如何產生 Personal Access Token
+  rateLimitExceededHasSet: 您有一個 Personal Access Token
+  rateLimitExceededRemoveToken: 移除 token
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: 複製並貼上您的 token
+  rateLimitExceededSaveToken: 保存 token
+  errorTitle: 發生錯誤
+  errorIntro: 嘗試獲取最新狀態詳細信息時出錯
+  errorText: 您可以稍後再試
+  errorHome: 回到首頁
+  pastScheduledMaintenance: 過去的計劃維護
+  scheduledMaintenance: 計劃維護
+  scheduledMaintenanceSummaryStarted: 於 $DATE 開始並持續 $DURATION 分鐘
+  scheduledMaintenanceSummaryStarts: 於 $DATE 開始並已進行 $DURATION 分鐘
+  startedAt: 已開始於
+  startsAt: 開始於
+  duration: 持續時間
+  durationMin: $DURATION 分鐘
+  incidentCompleted: Completed
+  incidentScheduled: 已預定
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
