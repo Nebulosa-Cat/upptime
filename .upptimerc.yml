@@ -7,32 +7,28 @@ sites:
     url: https://nebulosa-cat.com
     icon: https://nebulosa-cat.com/wp-content/uploads/2022/04/website-icon.png
     assignees: Nebulosa-Cat
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+  - name: Discord BOT 西宮結弦
+    url: https://discord-bot-by-armfire1911.herokuapp.com/
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.nebulosa-cat.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status Monitor
-  introTitle: "一個基於開源 Status Monitor Project 「Upptime」 部署於 Github 上的網站狀態監視頁面"
+  name: Is Nebulosa Down ?
+  introTitle: "Nebulosa Cat 的生存狀態頁"
   #introMessage: [My Bolg](https://nebulosa-cat.com)
   navbar:
-    - title: Status Monitor
+    - title: Is Nebulosa Down ?
       href: /
     - title: Blog
       href: https://nebulosa-cat.com
+      icon: https://nebulosa-cat.com/wp-content/uploads/2022/04/website-icon.png
     - title: GitHub
       href: https://github.com/Nebulosa-Cat/
-  theme: dark
+    - title: Telegram 頻道
+      href: https://t.me/+LVMVjJCctvg3Yzdl
+  theme: night
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
