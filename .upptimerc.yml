@@ -8,7 +8,7 @@ sites:
     icon: https://nebulosa-cat.com/wp-content/uploads/2022/04/website-icon.png
     assignees: Nebulosa-Cat
   - name: Discord BOT 西宮結弦
-    url: $DC_BOT_Nishimi_Yayudzuru
+    url: $DC_BOT_NISHIMI_YAYUDZURU
     icon: https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg
   - name: TDC AdGuard Home
     url: $TDC_ADG
