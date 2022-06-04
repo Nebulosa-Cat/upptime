@@ -20,7 +20,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Is Nebulosa Cat Down ?
   introTitle: "Nebulosa Cat の Status Page."
-  introMessage: 這個頁面應該是下線率最低的頁面了，畢竟是建在 Github 上 :)
+  introMessage: "這個頁面應該是下線率最低的頁面了，畢竟是建在 Github 上 🐈‍⬛"
   favicon: https://nebulosa-cat.com/wp-content/uploads/2022/04/website-icon.png
   navbar:
     - title: Is Nebulosa Down ?
@@ -36,10 +36,10 @@ status-website:
 #翻譯
 i18n:
   activeIncidents: 目前異常事件
-  allSystemsOperational: "🟩 所有服務皆運作正常"
-  degradedPerformance: "🟨 部分服務緩慢"
-  completeOutage: "🟥 所有服務中斷"
-  partialOutage: "🟧 部分服務中斷"
+  allSystemsOperational: "所有服務皆運作正常"
+  degradedPerformance: "部分服務緩慢"
+  completeOutage: "所有服務中斷"
+  partialOutage: "部分服務中斷"
   incidentReport: "異常事件 #$NUMBER 報告 →"
   activeIncidentSummary: 發生在 $DATE，有 $POSTS 則回應
   incidentTitle: 異常事件 $NUMBER 內容
