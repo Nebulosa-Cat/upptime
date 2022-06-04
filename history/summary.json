@@ -10,30 +10,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 787,
-    "timeDay": 787,
-    "timeWeek": 787,
-    "timeMonth": 787,
-    "timeYear": 787,
+    "time": 792,
+    "timeDay": 792,
+    "timeWeek": 792,
+    "timeMonth": 792,
+    "timeYear": 792,
     "dailyMinutesDown": {}
   },
   {
     "name": "Discord BOT 西宮結弦",
-    "url": "https://discord-bot-by-armfire1911.herokuapp.com/",
+    "url": "$DC_BOT_Nishimi_Yayudzuru",
     "icon": "https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg",
     "slug": "discord-bot",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
     "time": 226,
     "timeDay": 226,
     "timeWeek": 226,
     "timeMonth": 226,
     "timeYear": 226,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-04": 0
+    }
   },
   {
     "name": "TDC AdGuard Home",
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1273,
-    "timeDay": 1273,
-    "timeWeek": 1273,
-    "timeMonth": 1273,
-    "timeYear": 1273,
+    "time": 1201,
+    "timeDay": 1201,
+    "timeWeek": 1201,
+    "timeMonth": 1201,
+    "timeYear": 1201,
     "dailyMinutesDown": {}
   }
 ]
