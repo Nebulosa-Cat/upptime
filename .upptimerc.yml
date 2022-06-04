@@ -61,9 +61,9 @@ i18n:
   averageResponseTimeTitle: 平均回應時間
   sevelDayResponseTime: 7-day response time
   responseTimeMs: Response time (ms)
-  up: "正常"
-  degraded: "緩慢"
-  down: "中斷"
+  up: "Online"
+  degraded: "Degraded"
+  down: "Service Down"
   ms: ms
   loading: 載入中
   navGitHub: GitHub
