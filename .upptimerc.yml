@@ -5,19 +5,20 @@ repo: upptime # The name of this repository
 sites:
   - name: Nebulosa Cat's Blog
     url: https://nebulosa-cat.com
-    icon: https://nebulosa-cat.com/wp-content/uploads/2022/04/website-icon.png
+    icon: https://raw.githubusercontent.com/Nebulosa-Cat/upptime/master/storge/website-icon.png
     assignees: Nebulosa-Cat
   - name: Discord BOT 西宮結弦
     url: $DC_BOT_NISHIMI_YAYUDZURU
-    icon: https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg
+    icon: https://raw.githubusercontent.com/Nebulosa-Cat/upptime/master/storge/discord-icon.png
   - name: TDC AdGuard Home
     url: $TDC_ADG
+    icon: https://raw.githubusercontent.com/Nebulosa-Cat/upptime/master/storge/TDC-AdGuard-Home.png
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.nebulosa-cat.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/Nebulosa-Cat/upptime/master/storge/status-page-icon.png
   name: Is Nebulosa Cat Down ?
   introTitle: "Nebulosa Cat の Status Page."
   introMessage: "這個頁面應該是下線率最低的頁面了，畢竟是建在 Github 上 🐈‍⬛"
@@ -31,6 +32,7 @@ status-website:
       href: https://github.com/Nebulosa-Cat/
     - title: Telegram 頻道
       href: https://t.me/+LVMVjJCctvg3Yzdl
+  footer: <a href="https://www.flaticon.com/free-icons/dns" title="dns icons">Dns icons created by Eucalyp - Flaticon</a>
   theme: night
 
 #翻譯
