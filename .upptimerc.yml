@@ -22,7 +22,7 @@ status-website:
   name: Is Nebulosa Cat Down ?
   introTitle: "Nebulosa Cat の Status Page."
   introMessage: "這個頁面應該是下線率最低的頁面了，畢竟是建在 Github 上 🐈‍⬛"
-  favicon: https://nebulosa-cat.com/wp-content/uploads/2022/04/website-icon.png
+  favicon: https://raw.githubusercontent.com/Nebulosa-Cat/upptime/master/storge/status-page-icon.png
   navbar:
     - title: Is Nebulosa Down ?
       href: /
@@ -32,7 +32,6 @@ status-website:
       href: https://github.com/Nebulosa-Cat/
     - title: Telegram 頻道
       href: https://t.me/+LVMVjJCctvg3Yzdl
-  footer: <a href="https://www.flaticon.com/free-icons/dns" title="dns icons">Dns icons created by Eucalyp - Flaticon</a>
   theme: night
 
 #翻譯
