@@ -9,6 +9,7 @@ sites:
     assignees: Nebulosa-Cat
   - name: Discord BOT 西宮結弦
     url: https://discord-bot-by-armfire1911.herokuapp.com/
+    icon: https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -17,13 +18,14 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Is Nebulosa Down ?
   introTitle: "Nebulosa Cat 的生存狀態頁"
+  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages.
   #introMessage: [My Bolg](https://nebulosa-cat.com)
+  favicon: https://nebulosa-cat.com/wp-content/uploads/2022/04/website-icon.png
   navbar:
     - title: Is Nebulosa Down ?
       href: /
     - title: Blog
       href: https://nebulosa-cat.com
-      icon: https://nebulosa-cat.com/wp-content/uploads/2022/04/website-icon.png
     - title: GitHub
       href: https://github.com/Nebulosa-Cat/
     - title: Telegram 頻道
