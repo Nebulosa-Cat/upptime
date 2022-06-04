@@ -10,16 +10,17 @@ sites:
   - name: Discord BOT 西宮結弦
     url: https://discord-bot-by-armfire1911.herokuapp.com/
     icon: https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg
+  - name: TDC AdGuard Home
+    url: $TDC_ADG
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.nebulosa-cat.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Is Nebulosa Down ?
-  introTitle: "Nebulosa Cat 的生存狀態頁"
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages.
-  #introMessage: [My Bolg](https://nebulosa-cat.com)
+  name: Is Nebulosa Cat Down ?
+  introTitle: "Nebulosa Cat の Status Page."
+  introMessage: 這個頁面應該是下線率最低的頁面了，畢竟是建在 Github 上 :)
   favicon: https://nebulosa-cat.com/wp-content/uploads/2022/04/website-icon.png
   navbar:
     - title: Is Nebulosa Down ?
@@ -57,8 +58,8 @@ i18n:
   averageResponseTimeTitle: 平均響應
   sevelDayResponseTime: 響應時間(7日)
   responseTimeMs: 響應時間 (ms)
-  up: 上一個
-  down: 下一個
+  up: Online
+  down: Server Down
   degraded: Degraded
   ms: ms
   loading: 載入中
