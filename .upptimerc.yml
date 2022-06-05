@@ -13,6 +13,8 @@ sites:
   - name: TDC AdGuard Home
     url: $TDC_ADG
     icon: https://raw.githubusercontent.com/Nebulosa-Cat/upptime/master/storge/TDC-AdGuard-Home.png
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -20,11 +22,11 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/Nebulosa-Cat/upptime/master/storge/status-page-icon.png
   name: Is Nebulosa Cat Down ?
-  introTitle: "Nebulosa Cat の Status Page."
-  introMessage: "這個頁面應該是下線率最低的頁面了，畢竟是建在 Github 上 🐈‍⬛"
+  introTitle: "Nebulosa Cat 🐈‍⬛ の Status Page."
+  introMessage: "這個頁面應該是下線率最低的頁面了，畢竟是建在 Github 上"
   favicon: https://raw.githubusercontent.com/Nebulosa-Cat/upptime/master/storge/status-page-icon.png
   navbar:
-    - title: Is Nebulosa Down ?
+    - title: Status
       href: /
     - title: Blog
       href: https://nebulosa-cat.com
