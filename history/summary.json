@@ -4,19 +4,19 @@
     "url": "https://nebulosa-cat.com",
     "icon": "https://raw.githubusercontent.com/Nebulosa-Cat/upptime/master/storge/website-icon.png",
     "slug": "nebulosa-cat-s-blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 778,
-    "timeDay": 612,
-    "timeWeek": 771,
+    "timeDay": 697,
+    "timeWeek": 773,
     "timeMonth": 778,
     "timeYear": 778,
     "dailyMinutesDown": {
-      "2022-06-13": 0
+      "2022-06-13": 2
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 187,
-    "timeWeek": 139,
-    "timeMonth": 194,
-    "timeYear": 194,
+    "time": 196,
+    "timeDay": 225,
+    "timeWeek": 155,
+    "timeMonth": 196,
+    "timeYear": 196,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1249,
-    "timeDay": 1382,
-    "timeWeek": 1384,
-    "timeMonth": 1249,
-    "timeYear": 1249,
+    "time": 1244,
+    "timeDay": 1263,
+    "timeWeek": 1354,
+    "timeMonth": 1244,
+    "timeYear": 1244,
     "dailyMinutesDown": {}
   }
 ]
