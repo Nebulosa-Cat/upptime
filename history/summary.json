@@ -5,19 +5,17 @@
     "icon": "https://raw.githubusercontent.com/Nebulosa-Cat/upptime/master/storge/website-icon.png",
     "slug": "nebulosa-cat-s-blog",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 778,
     "timeDay": 697,
     "timeWeek": 773,
     "timeMonth": 778,
     "timeYear": 778,
-    "dailyMinutesDown": {
-      "2022-06-13": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Discord BOT 西宮結弦",
