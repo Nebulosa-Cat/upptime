@@ -40,9 +40,9 @@
     "url": "$TDC_ADG",
     "icon": "https://raw.githubusercontent.com/Nebulosa-Cat/upptime/master/storge/TDC-AdGuard-Home.png",
     "slug": "tdc-ad-guard-home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 1181,
     "timeMonth": 1229,
     "timeYear": 1229,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   }
 ]
